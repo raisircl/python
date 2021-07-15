@@ -67,8 +67,7 @@ D:\rai\code\python>cd suraj
 D:\rai\code\python\suraj>md git
 
 D:\rai\code\python\suraj>dir
- Volume in drive D is New Volume
- Volume Serial Number is 8422-2065
+ 
 
  Directory of D:\rai\code\python\suraj
 
@@ -92,8 +91,7 @@ remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (6/6), done.
 
 D:\rai\code\python\suraj\git>dir
- Volume in drive D is New Volume
- Volume Serial Number is 8422-2065
+ 
 
  Directory of D:\rai\code\python\suraj\git
 
@@ -132,14 +130,11 @@ Run
   git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
 
-to set your account's default identity.
-Omit --global to set the identity only in this repository.
 
-fatal: unable to auto-detect email address (got 'raive@DESKTOP-HT3VRU3.(none)')
 
-D:\rai\code\python\suraj\git\python>git config --global user.email "rai.verma@live.com"
+D:\rai\code\python\suraj\git\python>git config --global user.email "you@example.com"
 
-D:\rai\code\python\suraj\git\python>git config --global user.name "raisircl"
+D:\rai\code\python\suraj\git\python>git config --global user.name "usernameofgit"
 
 D:\rai\code\python\suraj\git\python>git commit -m " sum of digits , reverse  , sum of 2 nos "
 [master 8f96d1f]  sum of digits , reverse  , sum of 2 nos
